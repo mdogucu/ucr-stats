@@ -1,6 +1,6 @@
 # Bayesian Statistics for Undergraduate Learners
 
-Materials for the seminar talk given at University of California Riverside, Department of Statistics on 04-20-2021
+Materials for the seminar talk given at University of California Riverside, Department of Statistics on 2021-04-20
 
 <hr>
 
