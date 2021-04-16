@@ -216,8 +216,14 @@ plot_beta_binomial(alpha = 3, beta = 8, y = 19, n = 20)
 
 ---
 
-## Resources
+class: middle
 
-GitHub repo
+- [Undergraduate Bayesian Education Resources](https://undergrad-bayes.netlify.app/)
 
-[USCOTS workshop](https://www.causeweb.org/cause/uscots/uscots21)
+--
+
+- [Undergraduate Bayesian Education Network](https://undergrad-bayes.netlify.app/network.html)
+
+--
+
+- [USCOTS workshop](https://www.causeweb.org/cause/uscots/uscots21/workshop/4)
