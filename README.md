@@ -4,7 +4,7 @@ Materials for the seminar talk given at University of California Riverside, Depa
 
 <hr>
 
-[Slides :computer:]() 
+[Slides :computer:](https://mdogucu.github.io/ucr-stats) 
 
 <hr>
 
