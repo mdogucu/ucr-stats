@@ -41,6 +41,13 @@ p,h1,h2,h3,h4 {
   background-color: #006666	;
 }
 
+.font-75{
+  font-size:75px;
+}
+
+.font-20{
+  font-size:20px;
+}
 
 .remark-slide-content {
     background-color: #006666	;
@@ -178,12 +185,22 @@ table, th, td {
 
 }
 
+.reference{
+    position: fixed;
+    bottom: 33px;
+    right:35px;
+    font-size:18px;
+    font-family: 'Lora';
+    color:whitesmoke;
+
+}
+
 .footnote{
     position: fixed;
     bottom: 33px;
-    font-size:15px;
+    font-size:18px;
     font-family: 'Lora';
-    color:#464026;
+    color:whitesmoke;
 
 }
 
@@ -211,5 +228,5 @@ table, th, td {
 
 .remark-slide-number .progress-bar {
   height: 100%;
-  background-color: #384144;
+  background-color: whitesmoke;
 }
